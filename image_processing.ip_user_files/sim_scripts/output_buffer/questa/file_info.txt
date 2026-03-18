@@ -1,0 +1,8 @@
+xpm_cdc.sv,systemverilog,xpm,../../../../../home/dinal/Games/Xilinx/2025.2/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv,incdir="../../../../../Games/Xilinx/2025.2/data/rsb/busdef"
+xpm_memory.sv,systemverilog,xpm,../../../../../home/dinal/Games/Xilinx/2025.2/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv,incdir="../../../../../Games/Xilinx/2025.2/data/rsb/busdef"
+xpm_VCOMP.vhd,vhdl,xpm,../../../../../home/dinal/Games/Xilinx/2025.2/data/ip/xpm/xpm_VCOMP.vhd,incdir="../../../../../Games/Xilinx/2025.2/data/rsb/busdef"
+fifo_generator_vlog_beh.v,verilog,fifo_generator_v13_2_14,../../../ipstatic/simulation/fifo_generator_vlog_beh.v,incdir="../../../../../Games/Xilinx/2025.2/data/rsb/busdef"
+fifo_generator_v13_2_rfs.vhd,vhdl,fifo_generator_v13_2_14,../../../ipstatic/hdl/fifo_generator_v13_2_rfs.vhd,incdir="../../../../../Games/Xilinx/2025.2/data/rsb/busdef"
+fifo_generator_v13_2_rfs.v,verilog,fifo_generator_v13_2_14,../../../ipstatic/hdl/fifo_generator_v13_2_rfs.v,incdir="../../../../../Games/Xilinx/2025.2/data/rsb/busdef"
+output_buffer.v,verilog,xil_defaultlib,../../../../image_processing.gen/sources_1/ip/output_buffer/sim/output_buffer.v,incdir="../../../../../Games/Xilinx/2025.2/data/rsb/busdef"
+glbl.v,Verilog,xil_defaultlib,glbl.v

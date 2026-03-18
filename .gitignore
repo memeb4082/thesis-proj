@@ -4,13 +4,13 @@
 
 # Project files (re-generated)
 *.cache/
-*.hw/
-*.ip_user_files/
-*.runs/
-*.sim/
-*.gen/
-*.xpr
-*.str
+#*.hw/
+#*.ip_user_files/
+#*.runs/
+#*.sim/
+#*.gen/
+#*.xpr
+#*.str
 
 # Logs & reports
 *.log
